@@ -1,13 +1,14 @@
-<h1 align="center"> MIX-point MD
-</h1>
+# _MIxPoint-multi-device_
+## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
+  
+<div align="center">
 
-<p align="center"> 
-Konnichiwa Senpai, I am "MIX-point" an Opensource WhatsApp bot made by <a href="https://github.com/ayushdeveloper001">ayush</a> and his team "MIX-point" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+# Note
 
-<h3 align="center"> MIX-point
-</h4>
+I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. 
 
-<br>
+# Legal
 
-<p align="center">
-  <a href="https://github.com/ayushdeveloper001/MIX-POINT/fork"
+-   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
+-   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+-   This is an independent and unofficial software Use at your own risk.
